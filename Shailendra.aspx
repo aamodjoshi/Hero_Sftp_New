@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Aamod.aspx.cs" Inherits="Hero_Sftp_New.Aamod" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Shailendra.aspx.cs" Inherits="Hero_Sftp_New.Shailendra" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            New page by aamod Joshi on 04.11.2022
+            Shailendra
         </div>
     </form>
 </body>
